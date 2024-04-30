@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentityExtend", "AspNetIdentityExtend.csproj", "{AB52E5C7-B692-4C0F-B868-12FC192CAEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentityExtend.Tests", "..\AspNetIdentityExtend.Tests\AspNetIdentityExtend.Tests.csproj", "{6D5DB4D0-3141-476F-B595-E60FF281541A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB52E5C7-B692-4C0F-B868-12FC192CAEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB52E5C7-B692-4C0F-B868-12FC192CAEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB52E5C7-B692-4C0F-B868-12FC192CAEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB52E5C7-B692-4C0F-B868-12FC192CAEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5DB4D0-3141-476F-B595-E60FF281541A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5DB4D0-3141-476F-B595-E60FF281541A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5DB4D0-3141-476F-B595-E60FF281541A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5DB4D0-3141-476F-B595-E60FF281541A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B689B9B-FB17-4EF1-BF44-8DEAD50FA800}
+	EndGlobalSection
+EndGlobal
